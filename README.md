@@ -9,7 +9,3 @@ Welcome to the BloodDonorApp, a web-based platform designed to connect blood don
 - **Database**: MongoDB for efficient data storage and retrieval.
 - **Communication**: Utilizes WebSocket or a similar technology for real-time updates.
 
- **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/riddhi-1510/lifepulsehub.git
