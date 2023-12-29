@@ -1,11 +1,10 @@
-# BloodDonorApp
+# LifePulseHub Blood Donation App
 
-Welcome to the BloodDonorApp, a web-based platform designed to connect blood donors with those in need. Your contributions to this open-source project will help make the app more effective in saving lives.
-
+ LifePulseHub is a web-based blood donation platform built to connect donors with those in need.
+ 
 ## Tech Stack
 
-- **Frontend**: Developed using React and Redux for a responsive and state-managed user interface.
-- **Backend**: Powered by Node.js and Express for server-side development.
+- **Frontend**: React and Redux for a responsive and state-managed user interface.
+- **Backend**: Node.js and Express for server-side development.
 - **Database**: MongoDB for efficient data storage and retrieval.
-- **Communication**: Utilizes WebSocket or a similar technology for real-time updates.
-
+- **Communication**: WebSocket or a similar technology for real-time updates.
